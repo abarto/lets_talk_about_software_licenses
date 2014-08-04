@@ -160,9 +160,38 @@ There are two kinds of free or open source software licenses:
 
 * [BSD License](http://en.wikipedia.org/wiki/BSD_license)
 * [MIT License](http://en.wikipedia.org/wiki/MIT_license)
-* [Apache License](http://www.apache.org/licenses/LICENSE-2.0.html)
-* [Mozilla Public License](http://en.wikipedia.org/wiki/Mozilla_license) (BSD license derivative)
-* [PHP License](http://en.wikipedia.org/wiki/PHP_License)
+
+---
+
+## BSD License (4-clause)
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the <organization>.
+4. Neither the name of the <organization> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+---
+
+## BSD License (3-clause)
+
+* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+* Neither the name of the <organization> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+---
+
+## BSD License (2-clause) (FreeBSD)
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+---
+
+## MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 ---
 
@@ -179,6 +208,9 @@ There are two kinds of free or open source software licenses:
 ## Examples of copyleft licenses
 
 * [GNU General Public License](http://en.wikipedia.org/wiki/GNU_General_Public_License) (and derivatives)
+     - Version 1 (source-code access, modified versions have to be distributed under the same terms)
+     - Version 2 ("liberty or death" clause)
+     - Version 3 (patents, compatibility, tivoization)
 
 ---
 
@@ -213,6 +245,12 @@ This means that Free Software HAS to be distributed under a copyleft license
 ## Free or Open Source software licenses
 
 ![Free Software License Slide](http://www.dwheeler.com/essays/floss-license-slide-image.png "The Free-Libre / Open Source Software (FLOSS) License Slide by David A. Wheeler")
+
+---
+
+## Free or Open Source software licenses
+
+![Software Categories](http://www.gnu.org/philosophy/category.png "Software Categories")
 
 ---
 
