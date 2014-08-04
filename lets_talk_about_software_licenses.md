@@ -31,11 +31,10 @@ According to several definitions a software license is a *legal instrument* that
 
 ---
 
-![Daredevil](http://upload.wikimedia.org/wikipedia/en/1/14/Daredevil_65.jpg "Daredevil")
-
----
-
-# I'm not a lawyer
+<div style="text-align:center">
+    <img src="http://upload.wikimedia.org/wikipedia/en/1/14/Daredevil_65.jpg" alt="Daredevil"/>
+    <div style="font-size: x-large; margin-top: 20px; color: #ff0000">I'm not a lawyer</div>
+</div>
 
 ---
 
@@ -80,11 +79,11 @@ Written permition given by the copyright holder to third parties that restricts 
 
 ---
 
-# Copyright<br/>&ne;<br/>Software License<br/>&ne;<br/>Commercial Exploitation
+# Copyright<br/>&ne;<br/>Software License<br/>&ne;<br/>Commercial Exploitation / Contract
 
 ---
 
-# Copyright<br/>&darr;<br/>Software License<br/>&darr;<br/>Commercial Exploitation
+# Copyright<br/>&darr;<br/>Software License<br/>&darr;<br/>Commercial Exploitation / Contract
 
 ---
 
@@ -290,6 +289,14 @@ This means that Free Software HAS to be distributed under a copyleft license
 * Once you've distributed software under a license, there's no turning back
 * If you're the copyright holder you can change the license of subsequent revisions of the software
 * Software can be distributed under multiple licenses (at the user's choice)
+
+---
+
+## Lesser GNU General Public License (LGPL)
+
+* Allows the work to be linked or used with a non-(L)GPLed program.
+* It's safe to dynamically link libraries.
+* It's safe (according to the FSF) to inherit classes from LGPL libraries.
 
 ---
 
