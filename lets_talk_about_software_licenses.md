@@ -4,6 +4,8 @@
 
 ## About me
 
+<img style="width: 150px; height: auto;" src="http://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png" alt="Homer Simpson"/>
+
 * I work at Machinalis.
 * I'm a senior Java developer.
 * I'm a <s>junior</s> semi-senior Python developer.
@@ -122,7 +124,7 @@ Software licenses usually include provisions which allocate liability and respon
     - Publication of benchmarks, performance tests or even reviews.
     - Participation in a class action suit
     - Profit from the results of the usage of the software
-* **They may contain rules that restricts privacy** (&larr; WTF?!?!?)
+* **They may contain rules that restrict privacy** <span style="color: #ff0000">&larr; WTF?!?!?</span>
 
 ---
 
@@ -166,16 +168,17 @@ There are two kinds of free or open source software licenses:
 
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-3. All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the <organization>.
-4. Neither the name of the <organization> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+3. All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the "organization".
+4. Neither the name of the "organization" nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 ---
 
 ## BSD License (3-clause)
 
-* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
-* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-* Neither the name of the <organization> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. <span style="text-decoration: line-through">All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the "organization".</span>
+4. Neither the name of the "organization" nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 ---
 
@@ -183,6 +186,8 @@ There are two kinds of free or open source software licenses:
 
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. <span style="text-decoration: line-through">All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the "organization".</span>
+4. <span style="text-decoration: line-through">Neither the name of the "organization" nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.</span>
 
 ---
 
@@ -210,6 +215,24 @@ The above copyright notice and this permission notice shall be included in all c
      - Version 1 (source-code access, modified versions have to be distributed under the same terms)
      - Version 2 ("liberty or death" clause)
      - Version 3 (patents, compatibility, tivoization)
+     
+---
+
+## Apache License
+
+* Has similar provisions of other copyleft licenses.
+* Allows code to be mixed with files under other licenses.
+* Does not require derivative works to be distributed under the same license.
+* Version 2.0 is compatible with the GPL 3.0 (other aren't).
+
+---
+
+## Mozilla License
+
+* Has similar provisions of other copyleft licenses.
+* Allows code to be mixed with files under other licenses.
+* Considered a middle-ground between BSD/MIT Licenses and the GPL.
+* Version 1.0 is compatible with the GPL licenses, version 2.0 isn't.
 
 ---
 
