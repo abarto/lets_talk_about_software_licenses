@@ -149,6 +149,13 @@ There are two kinds of free or open source software licenses:
 
 ---
 
+## Liability in Free or Open Source Licenses
+
+* Free or Open Source software is usually distributed "AS-IS".
+* Some licenses include protection against litigation.
+
+---
+
 ## Permissive licenses
 
 * They impose a minimal set of requirements on how the software can be redistributed or used.
